@@ -16,7 +16,7 @@ Thermo ProteomeDiscoverer integrates both the peptide identification and quantif
 *Supported MSF Versions:*
 Note that we only support MSF files from ProteomeDiscoverer version 1.2, 1.3 and 1.4. We are not planning to invest development time in supporting older versions, but will however, try to ensure forward compatibility as new versions of ProteomeDiscoverer become available.
 
-### Citation
+### Citation - 1
  * [Colaert et al: J Proteome Res. 2011 Aug 5;10(8):3840-3.](http://pubs.acs.org/doi/abs/10.1021/pr2005154)
  * If you use *Thermo MSF Parser* as part of a paper, please include the reference above.
 
