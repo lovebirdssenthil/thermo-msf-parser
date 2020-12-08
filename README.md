@@ -9,7 +9,7 @@
 
 ----
 
-## Project Description
+## Project Description - 1
 
 Thermo ProteomeDiscoverer integrates both the peptide identification and quantification steps in peptide centric proteomics into a single workflow. This makes it one of the preferred programs to analyze proteomics data from Thermo mass spectrometers. The results of the ProteomeDiscoverer workflow are stored in MSF files. Here, we present a Java library to parse and visualize these MSF files.
 
